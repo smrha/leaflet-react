@@ -1,3 +1,12 @@
+@font-face {
+    font-family: sans;
+    src: url('../fonts/iranian-sans.ttf');
+}
+
+body {
+    font-family: sans;
+}
+
 .leaflet-container {
     width: 100%;
     height: 100vh;
